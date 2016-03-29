@@ -10,7 +10,8 @@ Gem::Specification.new do |spec|
   spec.email         = ["benj@zagorski.com"]
 
   spec.summary       = %q{Zagorski ADT is a collection of data types that are not included in the standard Ruby library.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.description   = %q{Includes Stack, Queue, StackQueue, MinMaxStack, and MinMaxStackQueue.}
+  spec.homepage      = "https://github.com/MrMicrowaveOven/ZagorskiADT.git"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or

@@ -1,5 +1,6 @@
-require "ZagorskiADT/AbstractDataTypes/Queue"
-require "ZagorskiADT/AbstractDataTypes/Stack"
-require "ZagorskiADT/AbstractDataTypes/StackQueue"
-require "ZagorskiADT/AbstractDataTypes/MinMaxStack"
-require "ZagorskiADT/AbstractDataTypes/MinMaxStackQueue"
+require_relative 'ZagorskiADT/AbstractDataTypes/ADT.rb'
+require_relative 'ZagorskiADT/AbstractDataTypes/Stack.rb'
+require_relative 'ZagorskiADT/AbstractDataTypes/Queue.rb'
+require_relative 'ZagorskiADT/AbstractDataTypes/StackQueue.rb'
+require_relative 'ZagorskiADT/AbstractDataTypes/MinMaxStack.rb'
+require_relative 'ZagorskiADT/AbstractDataTypes/MinMaxStackQueue.rb'

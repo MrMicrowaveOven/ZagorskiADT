@@ -1,5 +1,5 @@
 require "ZagorskiADT/version"
-require "ADT_requireables"
+require_relative "ADT_requireables.rb"
 
 module ZagorskiADT
   # Your code goes here...
