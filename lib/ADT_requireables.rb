@@ -1,0 +1,5 @@
+require "ZagorskiADT/AbstractDataTypes/Queue"
+require "ZagorskiADT/AbstractDataTypes/Stack"
+require "ZagorskiADT/AbstractDataTypes/StackQueue"
+require "ZagorskiADT/AbstractDataTypes/MinMaxStack"
+require "ZagorskiADT/AbstractDataTypes/MinMaxStackQueue"
