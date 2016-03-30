@@ -9,7 +9,7 @@ module ZagorskiADT
       puts "-MinMaxStack, a Stack that can return Min and Max in constant time"
       puts "-MinMaxStackQueue, a Queue that can return Min and Max in constant time"
       puts ""
-      puts "Type Stack.help for a list of Stack functions, and so on."
+      puts "Type ZagorskiADT::Stack::help for a list of Stack functions, and so on."
     end
   end
 end
