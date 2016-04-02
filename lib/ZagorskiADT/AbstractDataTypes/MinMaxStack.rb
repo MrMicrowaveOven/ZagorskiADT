@@ -19,6 +19,18 @@ module ZagorskiADT
       puts "empty?"
     end
 
+    def self.methods
+      self.help
+    end
+
+    def help
+      MinMaxStack.help
+    end
+
+    def methods
+      help
+    end
+
     def push(val)
       if @values.empty?
         @values.push([val, val, val])

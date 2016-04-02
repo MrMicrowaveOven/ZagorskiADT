@@ -13,6 +13,18 @@ module ZagorskiADT
       puts "empty?"
     end
 
+    def self.methods
+      self.help
+    end
+
+    def help
+      Queue.help
+    end
+
+    def methods
+      help
+    end
+
     def show
       @values
     end
