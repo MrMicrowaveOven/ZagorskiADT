@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["benj@zagorski.com"]
 
   spec.summary       = %q{Zagorski ADT is a collection of data types that are not included in the standard Ruby library.}
-  spec.description   = %q{Includes the following Advanced Data Types: Stack, Queue, StackQueue, MinMaxStack, and MinMaxStackQueue.}
+  spec.description   = %q{OUTOFDATE: This gem has been renamed to "zadt", and can be found at "https://rubygems.org/gems/zadt".  I suggest you switch to zadt, as it is the most updated version.  All further notes are from a previous version:  Includes the following Advanced Data Types: Stack, Queue, StackQueue, MinMaxStack, and MinMaxStackQueue.}
   spec.homepage      = "https://github.com/MrMicrowaveOven/ZagorskiADT.git"
   spec.license       = "MIT"
 
